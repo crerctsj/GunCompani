@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6711f72822ad3a40b3ca9d8815b0ccc, type: 3}
+  m_Name: nemo
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: nemo
+  minValue: 5
+  maxValue: 15
+  minWeight: 3
+  maxWeight: 5
+  itemPrefab: {fileID: 8519592400087212732, guid: 2146cf76375e53c4692ed397d6b0db91, type: 3}
+  canUse: 0
+  TwoHand: 0
